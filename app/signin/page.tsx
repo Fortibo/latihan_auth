@@ -52,7 +52,7 @@ export default function SigninPage() {
     }
 
     // 3) Redirect ke add-post
-    router.replace("/add-post");
+    router.replace("/addPost");
   }
 
   return (
